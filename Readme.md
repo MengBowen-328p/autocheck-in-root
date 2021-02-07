@@ -1,0 +1,1 @@
+A bot can automatically checkin Dingtalk.
